@@ -1,5 +1,8 @@
-export REGION=
+export REGION= ## add region
 
 curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Build%20a%20Multi-Modal%20GenAI%20Application%20Challenge%20Lab/quicklab.sh
 
 source quicklab.sh
+
+
+## lab ended
