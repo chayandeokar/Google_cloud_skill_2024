@@ -1,0 +1,7 @@
+export REGION=
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Arcade%20Hero/quicklabarc232.sh
+
+sudo chmod +x quicklabarc232.sh
+
+./quicklabarc232.sh
