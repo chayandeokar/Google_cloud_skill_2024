@@ -1,8 +1,6 @@
-# Create and Manage AlloyDB Instances: Challenge Lab || [GSP395](https://www.cloudskillsboost.google/focuses/50123?parent=catalog) ||
+# Create and Manage AlloyDB Instances: Challenge Lab || [GSP395] 
 
-## Solution [here](https://youtu.be/86kpvb2omtw)
-
-### Run the following Commands in CloudShell
+### Run Commands in CloudShell
 
 ```
 curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Create%20and%20Manage%20AlloyDB%20Instances%20Challenge%20Lab/gsp395.sh
@@ -77,13 +75,3 @@ INSERT INTO departments VALUES (40, 'Human Resources', 203, 2400);
 INSERT INTO departments VALUES (50, 'Shipping', 121, 1500);
 INSERT INTO departments VALUES (60, 'IT', 103, 1400);
 ```
-
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
